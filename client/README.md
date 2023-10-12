@@ -1,13 +1,33 @@
-## Running React on Repl.it
+# Yugireg
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+A brief description of your project.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Table of Contents
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+## About
+YugiReg is an application that allows you to take ydk files from YGOPRO, Dueling Nexus, and other online Yugioh deckbuilders and create an autofilled decklist. Since cards names can be long and you need to be careful to intput the names correctly to proper qualification this saves players a lot of time. 
+## Getting Started
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+These instructions will help you get a copy of the project up and running on your local machine.
+npm run start will allow you to run the client locally.
+### Prerequisites
+
+
+##Usage
+### FAQ
+-Why don't some of my cards appear in the completed form?
+This issue arises because Yugi-Reg may not fully support or recognize alternative art cards at the moment.
+
+-What happens if my decklist exceeds the allotted slots?
+If your decklist exceeds the allocated slots, Yugi-Reg will create new card form slots to accommodate the additional cards.
+
+-How can I obtain a YDK file of my deck?
+You can obtain a YDK file of your deck by using a deck exporter. For Dueling Nexus, I recommend using this Chrome extension: [Dueling Nexus Deck Exporter](https://chrome.google.com/webstore/detail/duelingnexus-deck-exporte/aaloejogbofkmmonaddiaogjjjdjlpcd).
