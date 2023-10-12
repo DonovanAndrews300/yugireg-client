@@ -1,7 +1,6 @@
 # Yugireg
 
-A brief description of your project.
-
+YugiReg is an application that allows you to take ydk files from YGOPRO, Dueling Nexus, and other online Yugioh deckbuilders and create an autofilled decklist. Since cards names can be long and you need to be careful to intput the names correctly to proper qualification this saves players a lot of time. 
 ## Table of Contents
 
 - [About](#about)
@@ -12,8 +11,6 @@ A brief description of your project.
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
-YugiReg is an application that allows you to take ydk files from YGOPRO, Dueling Nexus, and other online Yugioh deckbuilders and create an autofilled decklist. Since cards names can be long and you need to be careful to intput the names correctly to proper qualification this saves players a lot of time. 
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.
